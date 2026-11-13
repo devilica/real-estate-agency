@@ -4,6 +4,40 @@ A real estate agency website. Visitors browse properties for sale and rent, open
 
 The public site is in English. Listings and page text are stored in JSON files, so MySQL is not required.
 
+## Preview
+
+Home, with search:
+
+![Home](assets/preview/home.png)
+
+Featured listing and the rest of the homepage:
+
+![Featured listings](assets/preview/home-featured.png)
+
+![Property cards](assets/preview/home-cards.png)
+
+![About teaser and footer](assets/preview/home-footer.png)
+
+All properties:
+
+![Properties](assets/preview/properties.png)
+
+About and contact:
+
+![About](assets/preview/about.png)
+
+![Contact](assets/preview/contact.png)
+
+Admin login, listing list, page text, and the listing editor:
+
+![Admin login](assets/preview/admin-login.png)
+
+![Admin listings](assets/preview/admin-listings.png)
+
+![Admin content](assets/preview/admin-content.png)
+
+![Edit listing](assets/preview/admin-edit.png)
+
 ## Public site
 
 - **Home** shows the agency name, a short introduction, featured listings, and a quick search.
