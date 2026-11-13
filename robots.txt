@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /data/
+Disallow: /includes/
+Disallow: /config.php

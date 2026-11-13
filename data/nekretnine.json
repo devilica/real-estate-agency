@@ -1,0 +1,120 @@
+[
+    {
+        "id": "luxury-modern-apartment-with-panoramic-city-view-cbcc",
+        "naslov": "Luxury Modern Apartment with Panoramic City Views",
+        "tip": "stan",
+        "podtip": "",
+        "transakcija": "prodaja",
+        "cijena": 458000,
+        "valuta": "EUR",
+        "grad": "Miami",
+        "lokacija": "1428 Brickell Avenue, Apartment 1805",
+        "povrsina": 135,
+        "sobe": 2,
+        "opis": "Discover contemporary luxury in this beautifully designed apartment located in an exclusive residential building. Offering 1,450 sq ft (135 m²) of thoughtfully designed living space, this property combines elegant interiors, premium finishes, and an exceptional location.\n\nThe apartment features two spacious bedrooms, two modern bathrooms, a bright open-plan living and dining area, and a fully equipped contemporary kitchen. Floor-to-ceiling windows fill the space with natural light, while the private balcony offers beautiful views of the surrounding city.\n\nResidents can enjoy a secure building entrance, landscaped outdoor areas, underground parking, and convenient access to restaurants, shopping, and other city amenities.\n\nProperty Details:\n\nProperty Type: Luxury Apartment\n\nListing Type: For Sale\n\nLiving Area: 1,450 sq ft (135 m²)\n\nBedrooms: 2\n\nBathrooms: 2\n\nParking: 1 Garage Space\n\nBalcony: Yes\n\nCondition: Excellent\n\nFurnishing: Unfurnished\n\nBuilding: Modern Residential Complex",
+        "slike": [
+            "uploads/luxury-modern-apartment-with-panoramic-city-view-cbcc/54ff7946d8069096.jpg",
+            "uploads/luxury-modern-apartment-with-panoramic-city-view-cbcc/37c8f2c38ee4cdec.jpg"
+        ],
+        "status": "aktivno",
+        "istaknuto": true,
+        "sakriveno": false,
+        "redoslijed": 1,
+        "created": "2026-11-13T08:39:31+01:00",
+        "updated": "2026-11-13T08:39:31+01:00"
+    },
+    {
+        "id": "luxury-mountain-cabin-with-private-hot-tub-sceni-7929",
+        "naslov": "Luxury Mountain Cabin with Private Hot Tub & Scenic Views",
+        "tip": "vikend",
+        "podtip": "vikend-kuca",
+        "transakcija": "najam",
+        "cijena": 350,
+        "valuta": "EUR",
+        "grad": "Gatlinburg",
+        "lokacija": "245 Mountain View Drive, Gatlinburg, TN 37738, USA",
+        "povrsina": 149,
+        "sobe": 3,
+        "opis": "Escape to nature in this beautiful A-frame mountain retreat, surrounded by lush forests and breathtaking mountain views. This charming yet luxurious cabin offers approximately 1,600 sq ft (149 m²) of thoughtfully designed living space, combining rustic character with modern comfort.\n\nThe property features three cozy bedrooms, two modern bathrooms, a spacious open-plan living area with a stone fireplace, and a fully equipped kitchen. Large triangular windows create a bright and welcoming atmosphere while offering beautiful views of the surrounding landscape.\n\nStep outside and enjoy a private outdoor paradise featuring a spacious wooden deck, a relaxing hot tub, a fire pit with seating, and a covered outdoor lounge area. Perfect for romantic getaways, family holidays, or relaxing weekends with friends.\n\nLocated in a peaceful mountain setting, this property offers privacy, fresh air, and easy access to hiking trails, nature attractions, and outdoor activities.\n\nProperty Details:\n\nProperty Type: Vacation Home / Mountain Cabin\n\nListing Type: For Rent\n\nLiving Area: 1,600 sq ft (149 m²)\n\nBedrooms: 3\n\nBathrooms: 2\n\nFloors: 2\n\nParking: 2 Spaces\n\nHot Tub: Private\n\nFireplace: Yes\n\nOutdoor Deck: Yes\n\nFire Pit: Yes\n\nGarden: Private\n\nFurnishing: Fully Furnished\n\nPets: Considered\n\nAvailability: Year-Round",
+        "slike": [
+            "uploads/luxury-mountain-cabin-with-private-hot-tub-sceni-7929/c5fc870fc145be5a.jpg",
+            "uploads/luxury-mountain-cabin-with-private-hot-tub-sceni-7929/66c299b1eabf998e.jpg"
+        ],
+        "status": "aktivno",
+        "istaknuto": true,
+        "sakriveno": false,
+        "redoslijed": 2,
+        "created": "2026-11-13T08:51:39+01:00",
+        "updated": "2026-11-13T08:51:39+01:00"
+    },
+    {
+        "id": "private-underground-garage-for-sale-secure-and-c-b0e4",
+        "naslov": "Private Underground Garage for Sale – Secure and Convenient Parking",
+        "tip": "garaza",
+        "podtip": "garazno-mjesto",
+        "transakcija": "prodaja",
+        "cijena": null,
+        "valuta": "BAM",
+        "grad": "Austin",
+        "lokacija": "501 Congress Avenue, Garage G-12",
+        "povrsina": 26,
+        "sobe": null,
+        "opis": "An excellent opportunity to own a private garage space in a modern, well-maintained residential building. Offering approximately 280 sq ft (26 m²) of space, this garage provides secure parking and additional room for storage.\n\nThe garage features a wide automatic entrance, a durable concrete floor, bright LED lighting, and a secure access system. There is plenty of room for one vehicle, with additional shelving space for tools, bicycles, tires, and personal belongings.\n\nLocated in a clean and well-lit underground parking facility, the garage offers protection from weather conditions and added peace of mind with controlled building access.\n\nIdeal for homeowners, nearby residents, or investors looking for a practical property in a convenient urban location.\n\nProperty Details:\n\nProperty Type: Private Garage\n\nListing Type: For Sale\n\nTotal Area: 280 sq ft (26 m²)\n\nParking Capacity: 1 Vehicle\n\nGarage Door: Automatic\n\nLighting: LED\n\nSecurity: Controlled Access\n\nStorage Space: Yes\n\nLocation: Underground Garage\n\nCondition: Excellent\n\nAvailability: Immediately",
+        "slike": [
+            "uploads/private-underground-garage-for-sale-secure-and-c-b0e4/26c95ac40b58b2e1.jpg"
+        ],
+        "status": "rezervisano",
+        "istaknuto": false,
+        "sakriveno": false,
+        "redoslijed": 3,
+        "created": "2026-11-13T08:47:18+01:00",
+        "updated": "2026-11-13T08:47:18+01:00"
+    },
+    {
+        "id": "premium-commercial-office-space-for-sale-e156",
+        "naslov": "Premium Commercial Office Space for Sale",
+        "tip": "poslovni",
+        "podtip": "kancelarija",
+        "transakcija": "prodaja",
+        "cijena": null,
+        "valuta": "EUR",
+        "grad": "Miami",
+        "lokacija": "850 Brickell Avenue, Suite 100",
+        "povrsina": 200,
+        "sobe": 5,
+        "opis": "An exceptional opportunity to own a modern commercial property in a prime business location. This beautifully designed ground-floor office space offers approximately 2,150 sq ft (200 m²) of versatile workspace, featuring a contemporary glass façade, high ceilings, and premium interior finishes.\n\nThe property includes a spacious open-plan office area, private executive offices, a fully equipped reception area, a modern meeting room, and convenient staff facilities. Floor-to-ceiling windows provide abundant natural light, creating a bright and productive working environment.\n\nWith excellent street visibility, a prominent entrance, and a flexible layout, this property is ideal for corporate offices, consulting firms, technology companies, or professional services.\n\nConveniently located near restaurants, retail stores, public transportation, and major business districts, this commercial space offers excellent potential for both business owners and investors.\n\nProperty Details:\n\nProperty Type: Commercial Office Space\n\nListing Type: For Sale\n\nTotal Area: 2,150 sq ft (200 m²)\n\nFloors: Ground Floor\n\nOffice Rooms: 4\n\nMeeting Room: 1\n\nReception Area: Yes\n\nRestrooms: 2\n\nParking: 3 Dedicated Spaces\n\nCondition: Excellent\n\nFurnishing: Partially Furnished\n\nAvailability: Immediately",
+        "slike": [
+            "uploads/premium-commercial-office-space-for-sale-e156/ab0786f4700081cb.jpg",
+            "uploads/premium-commercial-office-space-for-sale-e156/4ab19caef1f8c171.jpg"
+        ],
+        "status": "aktivno",
+        "istaknuto": false,
+        "sakriveno": false,
+        "redoslijed": 4,
+        "created": "2026-11-13T08:45:00+01:00",
+        "updated": "2026-11-13T08:48:07+01:00"
+    },
+    {
+        "id": "modern-luxury-family-home-for-rent-c6ad",
+        "naslov": "Modern Luxury Family Home for Rent",
+        "tip": "kuca",
+        "podtip": "porodicna",
+        "transakcija": "najam",
+        "cijena": 4500,
+        "valuta": "EUR",
+        "grad": "New York",
+        "lokacija": "",
+        "povrsina": 260,
+        "sobe": 4,
+        "opis": "Discover the perfect blend of comfort, privacy, and contemporary elegance in this stunning two-story family home available for rent. Offering approximately 2,800 sq ft (260 m²) of living space, this beautifully designed property features spacious interiors, premium finishes, and a private landscaped backyard.\n\nThe home includes four generously sized bedrooms, three modern bathrooms, a bright open-plan living and dining area, and a fully equipped kitchen with high-end appliances. Large windows provide plenty of natural light, while sliding glass doors connect the living space to a covered outdoor patio.\n\nEnjoy your own private swimming pool, beautifully maintained garden, and outdoor entertainment area – perfect for relaxing or hosting family and friends.\n\nLocated in a peaceful residential neighborhood, the property offers convenient access to shopping centers, restaurants, schools, and major roads.\n\nProperty Details:\n\nProperty Type: Single-Family House\n\nListing Type: For Rent\n\nLiving Area: 2,800 sq ft (260 m²)\n\nBedrooms: 4\n\nBathrooms: 3\n\nFloors: 2\n\nParking: 2-Car Garage\n\nSwimming Pool: Yes\n\nGarden: Private\n\nPatio: Covered\n\nFurnishing: Unfurnished\n\nCondition: Excellent\n\nPets: Considered",
+        "slike": [
+            "uploads/modern-luxury-family-home-for-rent-c6ad/a4ebd632ada0df68.jpg"
+        ],
+        "status": "aktivno",
+        "istaknuto": false,
+        "sakriveno": false,
+        "redoslijed": 5,
+        "created": "2026-11-13T08:42:12+01:00",
+        "updated": "2026-11-13T08:45:23+01:00"
+    }
+]
